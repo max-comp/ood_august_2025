@@ -22,7 +22,7 @@ namespace ood_august_2025
         
         // Properties
         public DateTime BorrowedOn { get; set; }
-        public DateTime ReturnedOn { get; set; }
+        public DateTime? ReturnedOn { get; set; }
         public DateTime DueDate { get; set; }
 
 

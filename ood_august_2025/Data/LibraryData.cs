@@ -9,15 +9,14 @@ namespace ood_august_2025.Data
 {
     //code first entity framework class to represent the library data context
     public class LibraryData: DbContext
-
     {
         public LibraryData(): base("OODExam_MaxBatrak")
         {
-            
+            Database.SetInitializer(new DropCreateDatabaseIfModelChanges<LibraryData>());
         }
+        
         public DbSet<Book> Books { get; set; }
         public DbSet<Borrower> Borrowers { get; set; }
-
-
+        public DbSet<BorrowingRecord> BorrowingRecords { get; set; } 
     }
 }

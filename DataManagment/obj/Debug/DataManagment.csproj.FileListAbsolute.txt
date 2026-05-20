@@ -13,4 +13,3 @@ C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_
 C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\obj\Debug\DataMana.44C132A5.Up2Date
 C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\obj\Debug\DataManagment.exe
 C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\obj\Debug\DataManagment.pdb
-C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\obj\Debug\DataManagment.exe.config

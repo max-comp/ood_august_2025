@@ -39,7 +39,24 @@ namespace DataManagment
                 libraryData.Borrowers.Add(borrower);
                 //save the changes to the database
                 libraryData.SaveChanges();
+
+                //Create a borrowing record
+                BorrowingRecord borrowingRecord = new BorrowingRecord()
+                {
+                    BookId = book.BookId,
+                    BorrowerId = borrower.BorrowerId,
+                    BorrowedOn = new DateTime(2025, 8, 15),
+                    DueDate = new DateTime(2025, 8, 30),
+                };
+                //add the borrowing record to the database
+                libraryData.Set<BorrowingRecord>().Add(borrowingRecord);
+                //save the changes to the database
+                libraryData.SaveChanges();
+
                 Console.WriteLine("Data has been successfully added to the database.");
+
+
+
             }
         }
     }

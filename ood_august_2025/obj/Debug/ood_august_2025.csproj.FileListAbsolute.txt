@@ -18,4 +18,10 @@ C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_
 C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\obj\Debug\ood_augu.0F1430A8.Up2Date
 C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\obj\Debug\ood_august_2025.exe
 C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\obj\Debug\ood_august_2025.pdb
-C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\obj\Debug\ood_august_2025.exe.config
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\bin\Debug\MaterialDesignColors.dll
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\obj\Debug\App.baml

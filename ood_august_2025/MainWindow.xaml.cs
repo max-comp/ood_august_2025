@@ -24,5 +24,10 @@ namespace ood_august_2025
         {
             InitializeComponent();
         }
+
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

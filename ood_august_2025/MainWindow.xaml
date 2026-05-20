@@ -3,10 +3,36 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                     xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         xmlns:local="clr-namespace:ood_august_2025"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        >
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="80*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="35*"/>
+            <ColumnDefinition Width="35*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="Borrower" FontSize="14" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        <Label Grid.Row="0" Grid.Column="1" Content="Borrowed Books" FontSize="14" HorizontalAlignment="Left" VerticalAlignment="Center"/>
         
+        <Label Content="Available Books" Grid.Row="0" Grid.Column="2" FontSize="14" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+         
+        <ListBox x:Name="BorrowerListBox" Grid.Row="1" Grid.Column="0" Margin="5"/>
+         <ListBox x:Name="BorrowedBooksListBox" Grid.Row="1" Grid.Column="1" Margin="5"/>
+        <ListBox x:Name="AvailableBooksListBox" Grid.Row="1" Grid.Column="2" Margin="5"/>
+
+        <Button x:Name="ReturnButton" Content="Return Book" Grid.Row="2" Grid.Column="1" Width="150" Height="30" HorizontalAlignment="Left" VerticalAlignment="Center" Click="ReturnButton_Click"/>
+        <Button x:Name="BorrowButton" Content="Borrow Book" Grid.Row="2" Grid.Column="2" Width="150" Height="30" HorizontalAlignment="Left" VerticalAlignment="Center" Click="BorrowButton_Click"/>
     </Grid>
 </Window>
