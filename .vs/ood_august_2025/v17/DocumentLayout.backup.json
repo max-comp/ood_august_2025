@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02412426-5728-4473-965A-2E82599CE6FA}|ood_august_2025\\ood_august_2025.csproj|c:\\users\\maxba\\onedrive - atlantic tu\\documents\\2 year\\ood\\exam prep\\ood_august_2025\\ood_august_2025\\models\\borrowingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02412426-5728-4473-965A-2E82599CE6FA}|ood_august_2025\\ood_august_2025.csproj|solutionrelative:ood_august_2025\\models\\borrowingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D025B7B-BB0A-4243-8CF0-00F73FBDB3A5}|DataManagment\\DataManagment.csproj|c:\\users\\maxba\\onedrive - atlantic tu\\documents\\2 year\\ood\\exam prep\\ood_august_2025\\datamanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D025B7B-BB0A-4243-8CF0-00F73FBDB3A5}|DataManagment\\DataManagment.csproj|solutionrelative:datamanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02412426-5728-4473-965A-2E82599CE6FA}|ood_august_2025\\ood_august_2025.csproj|c:\\users\\maxba\\onedrive - atlantic tu\\documents\\2 year\\ood\\exam prep\\ood_august_2025\\ood_august_2025\\data\\librarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02412426-5728-4473-965A-2E82599CE6FA}|ood_august_2025\\ood_august_2025.csproj|solutionrelative:ood_august_2025\\data\\librarydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02412426-5728-4473-965A-2E82599CE6FA}|ood_august_2025\\ood_august_2025.csproj|c:\\users\\maxba\\onedrive - atlantic tu\\documents\\2 year\\ood\\exam prep\\ood_august_2025\\ood_august_2025\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02412426-5728-4473-965A-2E82599CE6FA}|ood_august_2025\\ood_august_2025.csproj|solutionrelative:ood_august_2025\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02412426-5728-4473-965A-2E82599CE6FA}|ood_august_2025\\ood_august_2025.csproj|c:\\users\\maxba\\onedrive - atlantic tu\\documents\\2 year\\ood\\exam prep\\ood_august_2025\\ood_august_2025\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02412426-5728-4473-965A-2E82599CE6FA}|ood_august_2025\\ood_august_2025.csproj|solutionrelative:ood_august_2025\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02412426-5728-4473-965A-2E82599CE6FA}|ood_august_2025\\ood_august_2025.csproj|c:\\users\\maxba\\onedrive - atlantic tu\\documents\\2 year\\ood\\exam prep\\ood_august_2025\\ood_august_2025\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02412426-5728-4473-965A-2E82599CE6FA}|ood_august_2025\\ood_august_2025.csproj|solutionrelative:ood_august_2025\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02412426-5728-4473-965A-2E82599CE6FA}|ood_august_2025\\ood_august_2025.csproj|c:\\users\\maxba\\onedrive - atlantic tu\\documents\\2 year\\ood\\exam prep\\ood_august_2025\\ood_august_2025\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02412426-5728-4473-965A-2E82599CE6FA}|ood_august_2025\\ood_august_2025.csproj|solutionrelative:ood_august_2025\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\DataManagment\\Program.cs",
+              "RelativeDocumentMoniker": "DataManagment\\Program.cs",
+              "ToolTip": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\DataManagment\\Program.cs",
+              "RelativeToolTip": "DataManagment\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:35:29.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryData.cs",
+              "DocumentMoniker": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\ood_august_2025\\Data\\LibraryData.cs",
+              "RelativeDocumentMoniker": "ood_august_2025\\Data\\LibraryData.cs",
+              "ToolTip": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\ood_august_2025\\Data\\LibraryData.cs",
+              "RelativeToolTip": "ood_august_2025\\Data\\LibraryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:28:34.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowingRecord.cs",
+              "DocumentMoniker": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\ood_august_2025\\Models\\BorrowingRecord.cs",
+              "RelativeDocumentMoniker": "ood_august_2025\\Models\\BorrowingRecord.cs",
+              "ToolTip": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\ood_august_2025\\Models\\BorrowingRecord.cs",
+              "RelativeToolTip": "ood_august_2025\\Models\\BorrowingRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:22:46.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\ood_august_2025\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ood_august_2025\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\ood_august_2025\\Models\\Book.cs",
+              "RelativeToolTip": "ood_august_2025\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:21:25.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\ood_august_2025\\Models\\Borrower.cs",
+              "RelativeDocumentMoniker": "ood_august_2025\\Models\\Borrower.cs",
+              "ToolTip": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\ood_august_2025\\Models\\Borrower.cs",
+              "RelativeToolTip": "ood_august_2025\\Models\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:19:53.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\ood_august_2025\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ood_august_2025\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\ood_august_2025\\MainWindow.xaml",
+              "RelativeToolTip": "ood_august_2025\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-20T22:19:09.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\ood_august_2025\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ood_august_2025\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\maxba\\OneDrive - Atlantic TU\\Documents\\2 Year\\OOD\\exam prep\\ood_august_2025\\ood_august_2025\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ood_august_2025\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T22:19:09.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

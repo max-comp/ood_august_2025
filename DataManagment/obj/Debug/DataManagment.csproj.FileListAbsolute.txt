@@ -1,0 +1,16 @@
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\bin\Debug\DataManagment.exe.config
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\bin\Debug\DataManagment.exe
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\bin\Debug\DataManagment.pdb
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\bin\Debug\EntityFramework.dll
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\bin\Debug\ood_august_2025.exe
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\bin\Debug\ood_august_2025.pdb
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\bin\Debug\ood_august_2025.exe.config
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\bin\Debug\EntityFramework.xml
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\obj\Debug\DataManagment.csproj.AssemblyReference.cache
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\obj\Debug\DataManagment.csproj.CoreCompileInputs.cache
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\obj\Debug\DataMana.44C132A5.Up2Date
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\obj\Debug\DataManagment.exe
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\obj\Debug\DataManagment.pdb
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\DataManagment\obj\Debug\DataManagment.exe.config
