@@ -23,6 +23,7 @@ namespace DataManagment
                     Title = "The Great Gatsby",
                     Author = "F. Scott Fitzgerald",
                 };
+
                 //add the book to the database
                 libraryData.Books.Add(book);
                 //save the changes to the database
@@ -55,6 +56,37 @@ namespace DataManagment
 
                 Console.WriteLine("Data has been successfully added to the database.");
 
+
+                //add more books and borrowers for testing purposes
+                Book book2 = new Book()
+                {
+                    Title = "To Kill a Mockingbird",
+                    Author = "Harper Lee",
+                };
+                libraryData.Books.Add(book2);
+                Borrower borrower2 = new Borrower()
+                {
+                    FirstName = "Jane",
+                    Surname = "Smith",
+                    StudentNumber = "87654321"
+                };
+                libraryData.Borrowers.Add(borrower2);
+                libraryData.SaveChanges();
+
+                Book book3 = new Book()
+                {
+                    Title = "1984",
+                    Author = "George Orwell",
+                };
+                libraryData.Books.Add(book3);
+                Borrower borrower3 = new Borrower()
+                {
+                    FirstName = "Alice",
+                    Surname = "Johnson",
+                    StudentNumber = "11223344"
+                };
+                libraryData.Borrowers.Add(borrower3);
+                libraryData.SaveChanges();
 
 
             }

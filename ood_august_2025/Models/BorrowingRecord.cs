@@ -29,5 +29,13 @@ namespace ood_august_2025
 
 
         //constructor
+
+        //methods
+        // Override ToString for better readability when printing borrowing records
+        //format: Title - due: DueDate
+        public override string ToString()
+            {
+                return $"{Book?.Title} - due: {DueDate.ToShortDateString()}";
+        }
     }
 }

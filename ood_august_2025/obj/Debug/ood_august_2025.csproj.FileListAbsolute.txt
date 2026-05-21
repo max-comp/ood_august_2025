@@ -25,3 +25,4 @@ C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_
 C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\bin\Debug\Microsoft.Xaml.Behaviors.pdb
 C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\bin\Debug\Microsoft.Xaml.Behaviors.xml
 C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\obj\Debug\App.baml
+C:\Users\maxba\OneDrive - Atlantic TU\Documents\2 Year\OOD\exam prep\ood_august_2025\ood_august_2025\obj\Debug\ood_august_2025.exe.config

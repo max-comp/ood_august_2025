@@ -25,5 +25,9 @@ namespace ood_august_2025
 
 
         //methods
+        public override string ToString()
+        {
+            return $"{Title} ({Author})";
+        }
     }
 }

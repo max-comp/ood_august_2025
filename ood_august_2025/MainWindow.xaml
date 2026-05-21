@@ -28,7 +28,7 @@
         
         <Label Content="Available Books" Grid.Row="0" Grid.Column="2" FontSize="14" HorizontalAlignment="Left" VerticalAlignment="Center"/>
          
-        <ListBox x:Name="BorrowerListBox" Grid.Row="1" Grid.Column="0" Margin="5"/>
+        <ListBox x:Name="BorrowerListBox" Grid.Row="1" Grid.Column="0" Margin="5" SelectionChanged="BorrowerListBox_SelectionChanged"/>
          <ListBox x:Name="BorrowedBooksListBox" Grid.Row="1" Grid.Column="1" Margin="5"/>
         <ListBox x:Name="AvailableBooksListBox" Grid.Row="1" Grid.Column="2" Margin="5"/>
 
